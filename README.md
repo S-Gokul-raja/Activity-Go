@@ -1,16 +1,13 @@
 # activitygo
 
-A new Flutter project.
+Android app to log activities
 
-## Getting Started
+<img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/1.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/2.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/3.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/4.jpg" width="230"> 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/5.jpg" width="230">                    <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/6.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/7.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/8.jpg" width="230">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/9.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/10.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/11.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/12.jpg" width="230">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/13.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/14.jpg" width="230">          <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/15.jpg" width="230">                    <img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/16.jpg" width="230">          
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/S-Gokul-raja/Activity-Go/blob/main/git_images/17.jpg" width="230">          
